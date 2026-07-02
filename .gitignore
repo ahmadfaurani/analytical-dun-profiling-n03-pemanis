@@ -1,0 +1,25 @@
+# Sensitive data
+*.key
+*.pem
+.env
+credentials.json
+service-account.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Build artifacts
+*.pdf
+*.log
+
+# SPR raw data (do not upload XLSX files)
+*.xlsx
+*.xls
