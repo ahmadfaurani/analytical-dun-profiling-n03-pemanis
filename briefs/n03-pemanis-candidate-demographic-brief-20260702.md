@@ -1,4 +1,4 @@
-# N02 Pemanis — Candidate Demographic Alignment Brief
+# N03 Pemanis — Candidate Demographic Alignment Brief
 
 **Data As Of:** 2026-07-02 (SPR Candidate Nomination)  
 **Generated:** 2026-07-02 14:00 UTC  

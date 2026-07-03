@@ -1,4 +1,4 @@
-# NN02 Pemanis — Master Operational Brief
+# N03 Pemanis — Master Operational Brief
 
 **Classification:** TLP:AMBER — Internal Campaign Use Only  
 **Generated:** 2026-07-02 13:50 UTC  
@@ -54,7 +54,7 @@
 | 50-55% | **BN** | No |  Challenger |
 | **BN** | Similar to 2022 dynamics; split opposition | No |  Challenger |
 
-**Bottom Line:** NN02 is a **safe** (63.3% Malay, 32.5% Chinese) where **turnout differential will determine the outcome**. PH must maximize Chinese turnout to compete.
+**Bottom Line:** N03 Pemanis is a **BN-leaning swing seat** (63.3% Malay, 32.5% Chinese) where **turnout differential will determine the outcome**. PH must maximize Chinese turnout to compete.
 
 ---
 
@@ -100,7 +100,7 @@
 | **Female Voters** | 50.5% (15,395 voters) | Cost-of-living, welfare messaging critical |
 | **OKU Voters** | 2.6% (797 voters) | Accessibility priority in multiple PDs |
 
-**Bottom Line:** NN02 is a **mixed-ethnicity seat** (63.3% Malay, 32.5% Chinese) with **13 polling districts**. BN/PN compete for Malay base; PH depends on Chinese turnout.
+**Bottom Line:** N03 Pemanis is a **mixed-ethnicity seat** (63.3% Malay, 32.5% Chinese) with **13 polling districts**. BN/PN compete for Malay base; PH depends on Chinese turnout.
 
 ---
 

@@ -20,7 +20,7 @@
 | **Female Voters** | 50.5% (15,395 voters) | Cost-of-living, welfare messaging critical |
 | **OKU Voters** | 2.6% (797 voters) | Accessibility priority in multiple PDs |
 
-**Bottom Line:** NN02 is a **mixed-ethnicity seat** (63.3% Malay, 32.5% Chinese) with **13 polling districts**. BN/PN compete for Malay base; PH depends on Chinese turnout.
+**Bottom Line:** N03 Pemanis is a **mixed-ethnicity seat** (63.3% Malay, 32.5% Chinese) with **13 polling districts**. BN/PN compete for Malay base; PH depends on Chinese turnout.
 
 ---
 
